@@ -1,0 +1,31 @@
+.line {
+    width:40px;
+    height: 6px;
+    background-color:black;
+    margin:8px auto;
+}
+body {
+    text-align: center;
+}
+#tools {
+    background-color:red;
+    width: 100%;
+    height: 800px;
+
+}
+#games {
+    background-color:purple;
+    width: 100%;
+    height: 800px;
+
+}
+img {
+    height:400px;
+    width:400px;
+}
+#chatbot {
+    background-color:green;
+    width: 100%;
+    height: 800px;
+
+}
